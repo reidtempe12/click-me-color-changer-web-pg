@@ -7,7 +7,7 @@ A simple web page that changes the background color every time you click the **"
 ## 🚀 Live Demo
 
 You can view the live site here:  
-[Click Me Color Changer](https://<your-username>.github.io/<your-repo>/)
+[Click Me Color Changer](https://<reidtempe12>.github.io/<your-repo>/)
 
 ---
 
@@ -25,10 +25,5 @@ You can view the live site here:
 - **CSS** – Styling and layout  
 - **JavaScript** – Handles the button click and changes colors dynamically  
 
----
 
-## 💻 Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
